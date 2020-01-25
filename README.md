@@ -7,8 +7,8 @@ This is a tutorial in an IPython Notebook for the Kaggle competition, Titanic Ma
 
 To run this notebook interactively:
 
-1. Download this repository in a zip file by clicking on this [link](https://github.com/agconti/kaggle-titanic/archive/master.zip) or execute this from the terminal:
-`git clone https://github.com/agconti/kaggle-titanic.git`
+1. Download this repository in a zip file by clicking on this [link](https://github.com/PappuKP/Titanic-Machine-Learning-from-Disaster-Kaggle-) or execute this from the terminal:
+`git clone https://github.com/PappuKP/Titanic-Machine-Learning-from-Disaster-Kaggle-`
 2. Install [virtualenv](http://virtualenv.readthedocs.org/en/latest/installation.html).
 3. Navigate to the directory where you unzipped or cloned the repo and create a virtual environment with `virtualenv env`.
 4. Activate the environment with `source env/bin/activate`
@@ -66,4 +66,4 @@ Show a simple example of an analysis of the Titanic disaster in Python using a f
 ### Benchmark Scripts
 To find the basic scripts for the competition benchmarks look in the "Python Examples" folder. These scripts are based on the originals provided by Astro Dave but have been reworked so that they are easier to understand for new comers.
 
-Competition Website: http://www.kaggle.com/c/titanic-gettingStarted
+Competition Website: https://www.kaggle.com/c/titanic/overview
